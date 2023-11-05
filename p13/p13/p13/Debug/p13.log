@@ -1,0 +1,3 @@
+﻿  main.c
+d:\!大學\大一\程式實習\homework231103\p13\source\main.c(13): warning C4098: 'main': 'void' 函式正在傳回值
+  p13.vcxproj -> D:\!大學\大一\程式實習\homework231103\p13\p13\Debug\p13.exe
